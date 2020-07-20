@@ -14,6 +14,6 @@
 
 ### 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shreyans13&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shreyans13&show_icons=true&hide_border=true&theme=dark)
 
 <!-- ## Show ❤️ By Starring My Repos! -->
