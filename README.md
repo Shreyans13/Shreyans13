@@ -12,3 +12,8 @@
 - 😄 Pronouns: Backend Developer/Frontend Developer or Future Full Stack Developer
 - ⚡ Fun fact: I love coffee
 
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=shreyans13&show_icons=true&hide_border=true)
+
+<!-- ## Show ❤️ By Starring My Repos! -->
