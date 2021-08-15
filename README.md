@@ -4,7 +4,7 @@
 **Shreyans13/Shreyans13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Online Shopping Website
-- 🌱 I’m currently learning Vue Js
+
 - 👯 I’m looking to collaborate on everything related to Web Development
 - 🤔 I’m looking for help with Electron Js
 - 💬 Ask me about Backend Development and stuff
@@ -13,7 +13,8 @@
 - ⚡ Fun fact: I love coffee. I can binge watch documentation.
 -->
 
-- 👯 I’m looking to collaborate on everything related to Web Development
+- 👯 I’m looking to collaborate on everything related to Development
+- <img style="margin-left: 30px" alt="flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/549f36e938c7a2323fee1a465e812c7a69128979/topics/flutter/flutter.png" /> I’m currently learning Flutter 
 - 📫 How to reach me: shreyans1313@gmail.com
 - 😄 Pronouns: Backend Developer/Frontend Developer or Future Full Stack Developer
 - ⚡ Fun fact: I love coffee. I can binge watch documentation.
