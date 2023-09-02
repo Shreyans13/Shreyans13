@@ -14,7 +14,7 @@
 -->
 
 - 👯 I’m looking to collaborate on everything related to Development
-- <img style="margin-left: 30px" alt="flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/549f36e938c7a2323fee1a465e812c7a69128979/topics/flutter/flutter.png" /> I’m currently learning Flutter 
+- <img style="margin-left: 30px" alt="flutter" width="20px" src="https://raw.githubusercontent.com/github/explore/549f36e938c7a2323fee1a465e812c7a69128979/topics/flutter/flutter.png" /> I’m currently learning Svelte and React sometimes Rust or GO 
 - 📫 How to reach me: shreyans1313@gmail.com
 - 😄 Pronouns: Backend Developer/Frontend Developer or Future Full Stack Developer
 - ⚡ Fun fact: I love coffee. I can binge watch documentation.
